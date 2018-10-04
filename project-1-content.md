@@ -27,9 +27,9 @@ As the game progresses the player must think ahead to ensure they are able to co
 
 ### 7. Screenshots
 ![Concept art for image 1](https://github.com/QuinnHop/IGME230/blob/master/Concept_art_2.png "Concept art image 1")
-The first concept image from the game
-![Concept art for image 2]https://github.com/QuinnHop/IGME230/blob/master/ShapeAnimateFinal.gif "Concept art image 2")
-The second concept image from the game
+
+![Concept art for image 2](https://github.com/QuinnHop/IGME230/blob/master/ShapeAnimateFinal.gif "Concept art image 2")
+
 
 ### 8. About Me
 Hey, my name is Quinn Hopwood and I'm a second year Game Design and Development student at RIT. I love learning about programming, and enjoy modeling in Maya and creating things in Photoshop. I mostly work in C#, but I enjoy learning new languages and trying new things.
