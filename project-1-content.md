@@ -38,23 +38,21 @@ Hey, my name is Quinn Hopwood and I'm a second year Game Design and Development 
 
 
 ### Image Refrences and Assets
----------------------------
 
 *   For this project I only used my own images, and all assets were created in Photoshop.
 
 ### Tutorials used
----------------
 
 *   [I used this tutorial to learn how to create the nav bar.](https://www.w3schools.com/css/css_navbar.asp)
 *   [I also used this site in class when we were reviewing navigation bars.](http://css.maxdesign.com.au/floatutorial/tutorial0601.htm)
 *   [I used this tutorial help me remember how to create gifs in Photoshop.](https://blog.hubspot.com/marketing/how-to-create-animated-gif-quick-tip-ht)
 *   [I used this site to help me create a color scheme for the site.](https://coolors.co/403f4c-fffcf2-252422-2e4756-16262e)
 *   [Used this site to convert Markdown to html for Proposal page.](https://www.browserling.com/tools/markdown-to-html)
+*   [I used this site to convert from HTML to Markdown after I added my Documentation to GitHub.](http://domchristie.github.io/turndown/)
 *   [Checked CSS with this validator.](https://jigsaw.w3.org/css-validator/)
 *   [Checked HTML with this validator.](https://validator.w3.org/)
 
 ### General Process:
-----------------
 
 1.  Created website mockup in Photoshop.
 2.  Added color scheme I created in Coolors.co.
