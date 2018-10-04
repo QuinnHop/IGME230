@@ -1,5 +1,5 @@
 # *ShapeDown*
-##Proposal:
+## Proposal:
 ### 1. High Concept
 Test your coordination and focus as you try to match the colors on the square to the shapes coming from every direction.
 
