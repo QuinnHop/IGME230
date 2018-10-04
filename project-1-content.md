@@ -37,12 +37,12 @@ Hey, my name is Quinn Hopwood and I'm a second year Game Design and Development 
 ##Documentation:
 
 
-###Image Refrences and Assets:
+###Image Refrences and Assets
 ---------------------------
 
 *   For this project I only used my own images, and all assets were created in Photoshop.
 
-Tutorials Used:
+###Tutorials used
 ---------------
 
 *   [I used this tutorial to learn how to create the nav bar.](https://www.w3schools.com/css/css_navbar.asp)
