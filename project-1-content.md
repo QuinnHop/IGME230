@@ -26,9 +26,9 @@ The game starts slowly by only having a few block drop slowly from the simple pa
 As the game progresses the player must think ahead to ensure they are able to correctly switch the square in time to match the next color. Eventually the player will also have to manage having shapes coming from different directions, and must quickly decide which is the closest and match that while also keeping an eye on the other directions.
 
 ### 7. Screenshots
-![alt text](https://github.com/QuinnHop/IGME230/Concept_art_2 "Concept art image 1")
+![Concept art for image 1](https://github.com/QuinnHop/IGME230/blob/master/Concept_art_2.png "Concept art image 1")
 The first concept image from the game
-![alt text](https://github.com/QuinnHop/IGME230/ShapeAnimateFinal.gif "Concept art image 2")
+![Concept art for image 2]https://github.com/QuinnHop/IGME230/blob/master/ShapeAnimateFinal.gif "Concept art image 2")
 The second concept image from the game
 
 ### 8. About Me
