@@ -34,15 +34,15 @@ The second concept image from the game
 ### 8. About Me
 Hey, my name is Quinn Hopwood and I'm a second year Game Design and Development student at RIT. I love learning about programming, and enjoy modeling in Maya and creating things in Photoshop. I mostly work in C#, but I enjoy learning new languages and trying new things.
 
-##Documentation:
+## Documentation:
 
 
-###Image Refrences and Assets
+### Image Refrences and Assets
 ---------------------------
 
 *   For this project I only used my own images, and all assets were created in Photoshop.
 
-###Tutorials used
+### Tutorials used
 ---------------
 
 *   [I used this tutorial to learn how to create the nav bar.](https://www.w3schools.com/css/css_navbar.asp)
@@ -53,7 +53,7 @@ Hey, my name is Quinn Hopwood and I'm a second year Game Design and Development 
 *   [Checked CSS with this validator.](https://jigsaw.w3.org/css-validator/)
 *   [Checked HTML with this validator.](https://validator.w3.org/)
 
-General Process:
+### General Process:
 ----------------
 
 1.  Created website mockup in Photoshop.
